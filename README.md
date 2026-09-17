@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Segy Mohamed Fahim M Header" />
+  <img src="assets/header.svg" width="100%" alt="Segu Mohamed Fahim M Header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/segumohamedfahim">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Segy%20Mohamed%20Fahim%20M%20%F0%9F%91%8B;AI%20%26%20Machine%20Learning%20Student%20%F0%9F%8E%93;Passionate%20Developer%20%26%20Problem%20Solver%20%F0%9F%92%BB;C%2B%2B%2C%20Java%2C%20Python%20%26%20Web%20Builder%20%E2%9A%A1;Turning%20ideas%20into%20clean%20working%20code%20%F0%9F%9A%80" width="100%" style="max-width: 620px;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Segu%20Mohamed%20Fahim%20M%20%F0%9F%91%8B;AI%20%26%20Machine%20Learning%20Student%20%F0%9F%8E%93;Passionate%20Developer%20%26%20Problem%20Solver%20%F0%9F%92%BB;C%2B%2B%2C%20Java%2C%20Python%20%26%20Web%20Builder%20%E2%9A%A1;Turning%20ideas%20into%20clean%20working%20code%20%F0%9F%9A%80" width="100%" style="max-width: 620px;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  Hey! I'm <b>Segy Mohamed Fahim M</b>, a 2nd-year B.Tech student specializing in <b>Artificial Intelligence and Machine Learning</b> at Hindusthan College Of Engineering and Technology, Coimbatore.<br />
+  Hey! I'm <b>Segu Mohamed Fahim M</b>, a 2nd-year B.Tech student specializing in <b>Artificial Intelligence and Machine Learning</b> at Hindusthan College Of Engineering and Technology, Coimbatore.<br />
   I have a strong foundation in C, C++, Java, Python, and web development, and I am driven by the passion to explore intelligent systems and build modern, scalable software applications.
 </p>
 

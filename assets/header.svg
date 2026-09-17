@@ -112,10 +112,10 @@
 
   <!-- Main Name Header -->
   <text x="450" y="105" text-anchor="middle" class="title-text" fill="url(#red-glow-grad)" filter="url(#glow-red)">
-    SEGY MOHAMED FAHIM M
+    SEGU MOHAMED FAHIM M
   </text>
   <text x="450" y="105" text-anchor="middle" class="title-text" fill="#ffffff" fill-opacity="0.95">
-    SEGY MOHAMED FAHIM M
+    SEGU MOHAMED FAHIM M
   </text>
 
   <!-- Subtitle Tagline -->
